@@ -1,1 +1,1 @@
-An Amazon Clone
+<h1>An Amazon Clone</h1>
